@@ -14,3 +14,8 @@ pwd
 ```sh
 ls
 ```
+
+Удаление файла в MacOs:
+```sh
+rm <failName>
+```
