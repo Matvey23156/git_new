@@ -59,3 +59,13 @@ git checkout numberSave
 ```sh
 git checkout master
 ```
+
+Выводит на экран список веток:
+```sh
+git branch
+```
+
+Создание новой ветки ( например: черновик)
+```sh
+git branch название ветки
+```
